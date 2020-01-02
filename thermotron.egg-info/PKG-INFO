@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: thermotron
+Version: 0.0.1
+Summary: A package for controlling Thermotron thermal chambers with Python
+Home-page: https://github.com/stevenlowery011/thermotron
+Author: Steven Lowery
+Author-email: steven.lowery011@gmail.com
+License: UNKNOWN
+Description: # thermotron
+        Python package for controlling Thermotron thermal chambers
+        
+        This is a package for controlling Thermotron thermal chambers with Python. 
+        
+        This is a basic package for controlling certain GPIB interface Thermotron machines. 
+        More features may be added in the future. Please feel free to contribute. 
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
